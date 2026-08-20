@@ -28,3 +28,8 @@ I am currently open to **Ph.D. opportunities, Industrial R&D roles** and technic
 - **LinkedIn:** [linkedin.com/in/mohammadkhademi](https://www.linkedin.com/in/mohammadkhademi/)
 - **Email:** [mohammad.khademimin@gmail.com](mailto:mohammad.khademimin@gmail.com)
 - **Portfolio:** Check out my pinned repository **`Industrial-Optimization-Portfolio`** below!
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![AnyLogic](https://img.shields.io/badge/AnyLogic-8.9-orange)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-green)
+![EU AI Act](https://img.shields.io/badge/EU_AI_Act-Articles_12%2F13%2F14-red)
