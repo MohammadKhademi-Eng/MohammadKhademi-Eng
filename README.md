@@ -25,11 +25,12 @@ I build **Maintenance-Aware Digital Twins (MADO)** and custom **Genetic Algorith
 ### 📫 Let's Connect
 I am currently open to **Ph.D. opportunities, Industrial R&D roles** and technical collaborations in the fields of Industrial Engineering and Operations Research.
 
-- **LinkedIn:** [linkedin.com/in/mohammadkhademi](https://www.linkedin.com/in/mohammadkhademi/)
-- **Email:** [mohammad.khademimin@gmail.com](mailto:mohammad.khademimin@gmail.com)
-- **Portfolio:** Check out my pinned repository **`Industrial-Optimization-Portfolio`** below!
+* **Google Scholar:** [citations/Mohammad Khademi](https://scholar.google.com/citations?user=LzU_LUUAAAAJ)
+* **LinkedIn:** [linkedin.com/in/mohammadkhademi](https://www.linkedin.com/in/mohammadkhademi/)
+* **Email:** [mohammad.khademimin@gmail.com](mailto:mohammad.khademimin@gmail.com)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![AnyLogic](https://img.shields.io/badge/AnyLogic-8.9-orange)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-green)
 ![EU AI Act](https://img.shields.io/badge/EU_AI_Act-Articles_12%2F13%2F14-red)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Mohammad_Khademi-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=LzU_LUUAAAAJ)
